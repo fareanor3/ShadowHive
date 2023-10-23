@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d1f8ce2-6fa4-47fa-8e1f-3220a0b90fe2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Honeypot.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="4d1f8ce2-6fa4-47fa-8e1f-3220a0b90fe2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +51,7 @@
       <updated>1698053350682</updated>
       <workItem from="1698053351870" duration="17000" />
       <workItem from="1698053372401" duration="690000" />
-      <workItem from="1698077575681" duration="323000" />
+      <workItem from="1698077575681" duration="824000" />
     </task>
     <servers />
   </component>
