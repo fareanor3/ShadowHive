@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>HOneypot</title>
+    <link>https://quartz.jzhao.xyz/Honeypot</link>
+    <guid>https://quartz.jzhao.xyz/Honeypot</guid>
+    <description>Un honeypot est un système de sécurité informatique mis en place pour attirer et surveiller les attaquants potentiels, tels que les pirates informatiques, les logiciels malveillants ou d’autres menaces en ligne.</description>
+    <pubDate>Mon, 23 Oct 2023 16:42:33 GMT</pubDate>
+  </item><item>
+    <title>Shadowhive</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Le projet ShadowHive est un projet technique et scientifique réalisé par trois étudiants en école d’ingénieur. Le but de ce projet est de mettre en place un honeypot dans le but d’attirer et analyser des cyberattaques.</description>
+    <pubDate>Mon, 23 Oct 2023 16:42:33 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
