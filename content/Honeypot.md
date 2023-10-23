@@ -1,5 +1,5 @@
 ---
-title: HOneypot
+title: Honeypot
 ---
 
 Un honeypot est un système de sécurité informatique mis en place pour attirer et surveiller les attaquants potentiels, tels que les pirates informatiques, les logiciels malveillants ou d'autres menaces en ligne.

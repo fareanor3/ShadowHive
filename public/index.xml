@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Quartz 4.0</title>
+      <title>🍯 ShadowHive</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <description>Last 10 notes on 🍯 ShadowHive</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>HOneypot</title>
+    <title>Dump d&#039;un routeur</title>
+    <link>https://quartz.jzhao.xyz/Documentation-technique/Dump-d'un-routeur</link>
+    <guid>https://quartz.jzhao.xyz/Documentation-technique/Dump-d'un-routeur</guid>
+    <description> Étape 1 : Identification des Pads de Debug et du Protocole § Notre première étape consiste à trouver les pads de debug et à déterminer le protocole de communication, qui peut être SWD, JTAG, ou UART.</description>
+    <pubDate>Mon, 23 Oct 2023 17:39:11 GMT</pubDate>
+  </item><item>
+    <title>Honeypot</title>
     <link>https://quartz.jzhao.xyz/Honeypot</link>
     <guid>https://quartz.jzhao.xyz/Honeypot</guid>
     <description>Un honeypot est un système de sécurité informatique mis en place pour attirer et surveiller les attaquants potentiels, tels que les pirates informatiques, les logiciels malveillants ou d’autres menaces en ligne.</description>
-    <pubDate>Mon, 23 Oct 2023 16:51:36 GMT</pubDate>
+    <pubDate>Mon, 23 Oct 2023 17:32:00 GMT</pubDate>
   </item><item>
     <title>Shadowhive</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Le projet ShadowHive est un projet technique et scientifique réalisé par trois étudiants en école d’ingénieur. Le but de ce projet est de mettre en place un honeypot dans le but d’attirer et analyser des cyberattaques.</description>
-    <pubDate>Mon, 23 Oct 2023 16:51:36 GMT</pubDate>
+    <description>Présentation § Le projet ShadowHive est un projet technique et scientifique réalisé par trois étudiants en école d’ingénieur. Le but de ce projet est de mettre en place un honeypot dans le but d’attirer et analyser des cyberattaques.</description>
+    <pubDate>Mon, 23 Oct 2023 17:32:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
