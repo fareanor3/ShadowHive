@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d1f8ce2-6fa4-47fa-8e1f-3220a0b90fe2" name="Changes" comment="" />
+    <list default="true" id="4d1f8ce2-6fa4-47fa-8e1f-3220a0b90fe2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "ts.external.directory.path": "/home/loe/WebstormProjects/quartz/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -51,7 +54,7 @@
       <updated>1698053350682</updated>
       <workItem from="1698053351870" duration="17000" />
       <workItem from="1698053372401" duration="690000" />
-      <workItem from="1698077575681" duration="824000" />
+      <workItem from="1698077575681" duration="1206000" />
     </task>
     <servers />
   </component>

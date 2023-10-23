@@ -18,5 +18,3 @@
   "include": ["**/*.ts", "**/*.tsx", "./package.json"],
   "exclude": ["build/**/*.d.ts"]
 }
-
-//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
