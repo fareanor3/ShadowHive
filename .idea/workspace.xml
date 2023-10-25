@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4d1f8ce2-6fa4-47fa-8e1f-3220a0b90fe2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Honeypot.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Honeypot.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Honeypot.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Honeypot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/contentIndex.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/static/contentIndex.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +53,7 @@
       <updated>1698053350682</updated>
       <workItem from="1698053351870" duration="17000" />
       <workItem from="1698053372401" duration="690000" />
-      <workItem from="1698077575681" duration="4425000" />
+      <workItem from="1698077575681" duration="7382000" />
     </task>
     <task id="LOCAL-00001" summary="remove useless comment">
       <option name="closed" value="true" />
