@@ -7,7 +7,6 @@ Le projet ShadowHive est un projet technique et scientifique réalisé par trois
 ## Table des matières
 
 1. **Introduction**
-    
     - Présentation du projet ShadowHive
     - Objectifs du dossier
 2. **Contexte et Objectifs**
