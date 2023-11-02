@@ -1,3 +1,8 @@
+---
+title: Dump d'un routeur
+---
+
+
 ![[Pasted image 20231023194012.png]]
 
 ## Étape 1 : Identification des Pads de Debug et du Protocole

@@ -45,7 +45,7 @@ Le projet ShadowHive est un projet technique et scientifique réalisé par trois
 9. **Documentation Technique**
     
     - Guide d'utilisation du honeypot
-    - [[Dump d'un routeur]]
+    - [[router dump]]
     - Configuration du routeur pour une utilisation sûre
 10. **Conclusion**
     

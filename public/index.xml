@@ -2,27 +2,39 @@
 <rss version="2.0">
     <channel>
       <title>🍯 ShadowHive</title>
-      <link>https://quartz.jzhao.xyz</link>
+      <link>https://pst.loevan.me</link>
       <description>Last 10 notes on 🍯 ShadowHive</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Dump d&#039;un routeur</title>
-    <link>https://quartz.jzhao.xyz/Documentation-technique/Dump-d'un-routeur</link>
-    <guid>https://quartz.jzhao.xyz/Documentation-technique/Dump-d'un-routeur</guid>
-    <description> Étape 1 : Identification des Pads de Debug et du Protocole § Notre première étape consiste à trouver les pads de debug et à déterminer le protocole de communication, qui peut être SWD, JTAG, ou UART.</description>
-    <pubDate>Mon, 23 Oct 2023 17:39:11 GMT</pubDate>
-  </item><item>
     <title>Honeypot</title>
-    <link>https://quartz.jzhao.xyz/Honeypot</link>
-    <guid>https://quartz.jzhao.xyz/Honeypot</guid>
+    <link>https://pst.loevan.me/Concepts/Honeypot</link>
+    <guid>https://pst.loevan.me/Concepts/Honeypot</guid>
     <description>Un honeypot est un système de sécurité informatique mis en place pour attirer et surveiller les attaquants potentiels, tels que les pirates informatiques, les logiciels malveillants ou d’autres menaces en ligne.</description>
-    <pubDate>Mon, 23 Oct 2023 17:32:00 GMT</pubDate>
+    <pubDate>Wed, 01 Nov 2023 17:58:29 GMT</pubDate>
+  </item><item>
+    <title>Nous aider</title>
+    <link>https://pst.loevan.me/contribute</link>
+    <guid>https://pst.loevan.me/contribute</guid>
+    <description> La documentation du projet ShadowHive est hebergée sur github et publiée sur ce site grâce à Quartz. Si vous souhaitez contribuer à la documentation de ShadowHive, vous pouvez suivre les étapes ci-dessous.</description>
+    <pubDate>Wed, 01 Nov 2023 17:58:29 GMT</pubDate>
+  </item><item>
+    <title>Documentation technique</title>
+    <link>https://pst.loevan.me/docs/</link>
+    <guid>https://pst.loevan.me/docs/</guid>
+    <description></description>
+    <pubDate>Thu, 02 Nov 2023 14:20:21 GMT</pubDate>
+  </item><item>
+    <title>Dump d&#039;un routeur</title>
+    <link>https://pst.loevan.me/docs/router-dump</link>
+    <guid>https://pst.loevan.me/docs/router-dump</guid>
+    <description> Étape 1 : Identification des Pads de Debug et du Protocole § Notre première étape consiste à trouver les pads de debug et à déterminer le protocole de communication, qui peut être SWD, JTAG, ou UART.</description>
+    <pubDate>Wed, 01 Nov 2023 17:58:29 GMT</pubDate>
   </item><item>
     <title>Shadowhive</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
+    <link>https://pst.loevan.me/</link>
+    <guid>https://pst.loevan.me/</guid>
     <description>Présentation § Le projet ShadowHive est un projet technique et scientifique réalisé par trois étudiants en école d’ingénieur. Le but de ce projet est de mettre en place un honeypot dans le but d’attirer et analyser des cyberattaques.</description>
-    <pubDate>Mon, 23 Oct 2023 17:32:00 GMT</pubDate>
+    <pubDate>Wed, 01 Nov 2023 17:58:29 GMT</pubDate>
   </item>
     </channel>
   </rss>
