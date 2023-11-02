@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d1f8ce2-6fa4-47fa-8e1f-3220a0b90fe2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Contribuer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Documentation technique/Dump d'un routeur.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Honeypot.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Pasted image 20231023194012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Pasted image 20231023194119.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Pasted image 20231023194135.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Pasted image 20231023194149.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Pasted image 20231023194208.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Pasted image 20231023194227.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Pasted image 20231023194253.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Honeypot.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/contentIndex.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/static/contentIndex.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz.layout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.layout.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +62,7 @@
       <workItem from="1698243874930" duration="10000" />
       <workItem from="1698859816925" duration="1283000" />
       <workItem from="1698874055422" duration="5000" />
-      <workItem from="1698932481284" duration="2477000" />
+      <workItem from="1698932481284" duration="2822000" />
     </task>
     <task id="LOCAL-00001" summary="remove useless comment">
       <option name="closed" value="true" />
